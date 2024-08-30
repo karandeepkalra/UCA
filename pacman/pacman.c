@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-
 #define SIZE_R 21
 #define SIZE_C 77
 #define ITEM_TOTAL 263
